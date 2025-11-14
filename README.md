@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mohan Taylor
 
-<!--
-**mohantaylor/mohantaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chief Technology & Product Officer @ Tenovos | Building AI-powered content solutions at scale
 
-Here are some ideas to get you started:
+I live at the intersection of product vision and technical execution, architecting systems that process massive volumes of media and information across media, martech, and adtech ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- 🎬 Large-scale, low-latency media processing pipelines
+- 🤖 AI-powered content intelligence and workflow automation
+- 🦀 High-performance systems in Rust
+- 🏗️ Distributed architectures
+
+## Tech I'm excited about
+Rust • Microservices • Real-time Processing • Computer Vision • LLMs • Event-driven Architecture
+
+## Philosophy
+Great products emerge when deep technical understanding meets genuine user empathy. I believe in building systems that are both elegant under the hood and delightful to use.
+
+---
+
+💬 Always interested in discussing distributed systems, media tech, and the future of AI-powered workflows!
