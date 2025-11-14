@@ -1,4 +1,4 @@
-# Mohan Taylor
+# Mo Taylor
 
 Chief Technology & Product Officer @ Tenovos | Building AI-powered content solutions at scale
 
